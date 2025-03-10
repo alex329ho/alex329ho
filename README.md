@@ -1,7 +1,7 @@
 Hi 👋 My name is Ho Alex Ting Hei
 =================================
 
-Year 4 Data Science and Business Intelligence undergraduate
+Year 4 Data Science and Business Intelligence undergraduate | Python SAS R SQL | Help businesses make data-driven decisions and build AI-Powered solutions
 -----------------------------------------------------------
 
 I am eager to apply my skills in data analysis, machine learning, and business intelligence to real-world problems. As a Year 4 student pursuing a BSc in Data Science and Business Intelligence at The Hang Seng University of Hong Kong, I have demonstrated a strong grasp of core concepts in data science and business.
